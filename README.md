@@ -8,6 +8,7 @@ Use python 3.9 to create a virtualenv:
 ```bash
 python -V  # 3.9.7
 python -m venv env
+source ./env/bin/activate
 python -m pip install -r ./requirements.txt
 ```
 
